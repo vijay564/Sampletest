@@ -1,3 +1,6 @@
 This is a test document
+<<<<<<< HEAD
 trying a new line
 do w
+=======
+>>>>>>> parent of 0947897... added new line
